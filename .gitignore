@@ -1,6 +1,12 @@
+# Ignore Jupyter notebook checkpoints
 *.ipynb_checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files and folders
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
+
+# Ignore nested git repository folder
 Machine-Learning-Lab-AU/
